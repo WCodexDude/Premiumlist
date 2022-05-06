@@ -1,3 +1,1 @@
-game.Players.17xExre -- Founder
-game.Players.JustGameDeveloperXD -- Alt 
------------------------------------------------
+game:GetService('Players'):FindFirstChild("17xExre", "JustGameDeveloperXD")
